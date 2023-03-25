@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Vishwa Udayanga!
 
 <!--
 **vishwaUdayanga/vishwaUdayanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :mortar_board: - SLIIT Academy
+- :globe_with_meridians: - Web Development Enthusiast
+- :guitar: - Interested in playing Guitar and Piano
+
+### About Me
+I introduce myself as an enthusiastic student who is passionate about learning new technologies and methods to make people's routines more efficient and reliable. I currently study at SLIIT academy pursuing a Computer science degree and also tend to gain knowledge of new technologies and strategies through self-study in my free time. Persistent effort and credibility in my work are very important to me to make a bright outlook on myself and I always try to overcome my weaknesses and setbacks through experiences.
+
+Interested in MERN stack development, creating user interfaces, developing databases, and producing interactive user experiences. Recently created projects are given in the GitHub account. Mainly focused on aspects of web development and different features in various languages and libraries.
