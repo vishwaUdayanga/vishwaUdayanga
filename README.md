@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mortar_board: - SLIIT Academy
-- :globe_with_meridians: - Web Development Enthusiast
+- :mortar_board: - SLIIT CITY UNI
 - :guitar: - Interested in playing Guitar and Piano
 
 ### About Me
-I introduce myself as an enthusiastic student who is passionate about learning new technologies and methods to make people's routines more efficient and reliable. I currently study at SLIIT academy pursuing a Computer science degree and also tend to gain knowledge of new technologies and strategies through self-study in my free time. Persistent effort and credibility in my work are very important to me to make a bright outlook on myself and I always try to overcome my weaknesses and setbacks through experiences.
+I introduce myself as an enthusiastic student who is passionate about learning new technologies and methods to make people's routines more efficient and reliable. I am currently studying at SLIIT CITY UNI, pursuing a computer science degree. I also tend to gain knowledge of new technologies and strategies through self-study in my free time. Persistent effort and credibility in my work are significant to me to make a bright outlook on myself and I always try to overcome my weaknesses and setbacks through experiences.
 
-Interested in MERN stack development, creating user interfaces, developing databases, and producing interactive user experiences. Recently created projects are given in the GitHub account. Mainly focused on aspects of web development and different features in various languages and libraries.
+Majorly interested in Operating Systems, Red Hat Enterprise Linux, DevOps, Cloud Computing, and high-level programming languages such as C and C++. In addition, I am interested in developing comprehensive web applications using technology stacks that use Next.js (React framework), Tailwind CSS, Fast API (python), Microsoft Azure storage, PostgreSQL, Jenkins, Selenium, and Git according to problem definitions. As reflections, recently created projects are given in the GitHub account.
